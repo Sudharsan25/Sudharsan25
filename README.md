@@ -8,8 +8,6 @@
 
 -👨‍🎓 I’m currently learning Deep learning Using Tensorflow.
 
--🎗️ All of my projects are available at https://github.com/Sudharsan25.
-
 -🎙️ How to reach me **sudharsan.0125@gmail.com**.
 
 -🕹️ I learned **Blender Modelling** as a hobby.
@@ -54,6 +52,5 @@
 ---
 
 ### Connect me:
-<a href="https://github.com/Sudharsan25" target="blank"><img align="center" src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" height="30" width="30"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/sudhar._.san/" target="blank"><img align="center" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="vvishnu___" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sudharsan-s-151a0a1a2/" target="blank"><img align="center" src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png" alt="vishnu1902" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
