@@ -9,8 +9,8 @@ Python | PyTorch | TensorFlow | Docker | Git | WSL | FastAPI | MongoDB | AWS | N
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-## 📂 Repositories
-Check out my pinned projects below ⬇️
-
 ## 🌐 Connect With Me
 [LinkedIn](your_linkedin_url) | [Portfolio Website](your_portfolio_url)
+
+## 📂 Repositories
+Check out my pinned projects below ⬇️
