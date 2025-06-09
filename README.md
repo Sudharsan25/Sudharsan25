@@ -7,7 +7,7 @@
 Python | PyTorch | TensorFlow | Docker | Git | WSL | FastAPI | MongoDB | AWS | Notion | VS Code
 
 ## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=Sudharsan25&show_icons=true&theme=radical)
 
 ## 🌐 Connect With Me
 [LinkedIn](your_linkedin_url) | [Portfolio Website](your_portfolio_url)
