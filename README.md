@@ -1,10 +1,9 @@
 # 👋 Hi, I’m Sudharsan
 🎓 MS in Computer Science | AI/ML Enthusiast  
-🔍 Building projects in CV, NLP, and Generative AI  
-🌱 Currently learning: Gen AI, AWS ML, MLOps  
+🌱 Currently learning: Deep learning, Computer Vision
 
 ## 🛠️ Tech Stack
-Python | PyTorch | TensorFlow | Docker | Git | WSL | FastAPI | MongoDB | AWS | Notion | VS Code
+Python | Javascript | ReactJS | NextJS 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsan25&size_weight=0.5&count_weight=0.5)
 
 ## 📈 GitHub Stats
