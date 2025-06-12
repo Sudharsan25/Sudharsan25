@@ -4,12 +4,21 @@
 
 ## 🛠️ Tech Stack
 Python | Javascript | ReactJS | NextJS 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsan25&size_weight=0.5&count_weight=0.5)
 
 ## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Sudharsan25&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sudharsan25)](https://git.io/streak-stats)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Sudharsan25&show_icons=true&theme=radical"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=Sudharsan25"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsan25&size_weight=0.5&count_weight=0.5"/>
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Connect With Me
 [LinkedIn](your_linkedin_url) 
