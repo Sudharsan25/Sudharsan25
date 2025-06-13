@@ -14,7 +14,11 @@ Python | Javascript | ReactJS | NextJS
     <td>
       <img src="https://streak-stats.demolab.com/?user=Sudharsan25"/>
     </td>
-    <td>
+   
+  </tr>
+
+  <tr>
+     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsan25&size_weight=0.5&count_weight=0.5"/>
     </td>
   </tr>
