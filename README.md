@@ -16,12 +16,6 @@ Python | Javascript | ReactJS | NextJS
     </td>
    
   </tr>
-
-  <tr>
-     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsan25&size_weight=0.5&count_weight=0.5"/>
-    </td>
-  </tr>
 </table>
 
 ## 🌐 Connect With Me
