@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sudharsan
 🎓 MS in Computer Science | AI/ML Enthusiast  
-🌱 Currently learning: Deep learning, Computer Vision
+🌱 Currently learning: Deep learning, Computer Vision, Generative AI And LLMs
 
 ## 🛠️ Tech Stack
 Python | Javascript | ReactJS | NextJS 
