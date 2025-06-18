@@ -14,7 +14,7 @@ Python | Javascript | ReactJS | NextJS
   </tr>
 </table>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sudharsan25)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sudharsan25?theme=dark)](https://git.io/streak-stats)
 
 ## 🌐 Connect With Me
 [LinkedIn](your_linkedin_url) 
