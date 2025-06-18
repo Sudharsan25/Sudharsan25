@@ -12,7 +12,7 @@ Python | Javascript | ReactJS | NextJS
       <img src="https://github-readme-stats.vercel.app/api?username=Sudharsan25&show_icons=true&theme=radical"/>
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=Sudharsan25"/>
+      [(https://streak-stats.demolab.com/?user=Sudharsan25)](https://git.io/streak-stats)
     </td>
    
   </tr>
