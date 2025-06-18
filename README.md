@@ -11,13 +11,15 @@ Python | Javascript | ReactJS | NextJS
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Sudharsan25&show_icons=true&theme=radical"/>
     </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=Sudharsan&theme=dark"/>
+    </td>
   </tr>
 </table>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sudharsan25?theme=dark)](https://git.io/streak-stats)
 
 ## 🌐 Connect With Me
-[LinkedIn](your_linkedin_url) 
+[LinkedIn](https://www.linkedin.com/in/sudharsans25/) 
 
 ## 📂 Repositories
 Check out my pinned projects below ⬇️
