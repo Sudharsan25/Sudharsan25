@@ -3,7 +3,7 @@
 🌱 Currently learning: Deep learning, Computer Vision, Generative AI And LLMs
 
 ## 🛠️ Tech Stack
-Python | Javascript | ReactJS | NextJS 
+Python | Javascript | ReactJS | NextJS | OpenCV | Pytorch
 
 ## 📈 GitHub Stats
 <table>
