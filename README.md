@@ -12,7 +12,7 @@ Python | Javascript | ReactJS | NextJS | OpenCV | Pytorch
       <img src="https://github-readme-stats.vercel.app/api?username=Sudharsan25&show_icons=true&theme=radical"/>
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=Sudharsan25&theme=dark"/>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sudharsan25&theme=radical&hide_border=true&border_radius=20" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
