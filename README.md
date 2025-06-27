@@ -15,6 +15,12 @@ Python | Javascript | ReactJS | NextJS | OpenCV | Pytorch
       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sudharsan25&theme=radical&hide_border=true&border_radius=20" alt="GitHub Streak" /></a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsan25" alt="Top Languages" /></a>
+    </td>
+    
+  </tr>
 </table>
 
 
