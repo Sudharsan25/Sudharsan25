@@ -17,7 +17,7 @@ Python | Javascript | ReactJS | NextJS | OpenCV | Pytorch
   </tr>
   <tr>
     <td>
-      <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsan25" alt="Top Languages" /></a>
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsan25&hide=jupyter%20notebook&layout=pie" alt="Top Languages" /></a>
     </td>
     
   </tr>
