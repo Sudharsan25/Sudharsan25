@@ -13,9 +13,9 @@
 I'm dedicated to master the Generative AI and MLOps. With my experience in Full stack development, I intend to build scalable and efficient AI systems that provide real value to users. I am documenting my journey as I build and deploy a portfolio of production-grade AI systems.
 
 **My current learning & certification goals:**
-* **Cloud:** **AWS** (EC2, S3, IAM, Lambda, SageMaker, Bedrock)
+* **Cloud:** **AWS** (EC2, S3, IAM, Lambda, SageMaker, Bedrock), **Docker**, **CI/CD (GitHub Actions)**, **Linux**
 * **GenAI:** **LangChain**, **LlamaIndex**, Vector Databases (Pinecone, Chroma)
-* **MLOps:** **Docker**, **CI/CD (GitHub Actions)**, **MLflow**, **Apache Airflow**, **Data Version Control** (DVC),**DagsHub**
+* **MLOps:** , **MLflow**, **Apache Airflow**, **Data Version Control** (DVC),**DagsHub**
 * **Certification:** **AWS Machine learning engineer - Associate**
 ---
 
