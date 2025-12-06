@@ -62,19 +62,19 @@ I'm dedicated to master the Generative AI and MLOps. With my experience in Full 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Sudharsan25&show_icons=true&theme=radical"/>
+      <img src="https://github-readme-stats-henna-xi-17.vercel.app/api?username=Sudharsan25&show_icons=true&theme=radical"/>
     </td>
     <td>
       <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-silk-mu.vercel.app?user=Sudharsan25&theme=radical&border_radius=5" alt="GitHub Streak" /></a>
     </td>
   </tr>
-  <tr>
-    <td>
-      <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsan25&hide=jupyter%20notebook&layout=pie" alt="Top Languages" /></a>
-    </td>
-    
-  </tr>
 </table>
+<p align="center">
+  <img width="50%" src="https://github-readme-stats-henna-xi-17.vercel.app/api/top-langs/?username=Sudharsan25&layout=compact" />
+</p>
+
+
+
 
 ### 📫 Let's Connect
 
