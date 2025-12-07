@@ -70,7 +70,7 @@ I'm dedicated to master the Generative AI and MLOps. With my experience in Full 
   </tr>
 </table>
 <p align="center">
-  <img width="50%" src="https://github-readme-stats-henna-xi-17.vercel.app/api/top-langs/?username=Sudharsan25&layout=compact" />
+  <img width="50%" src="https://github-readme-stats-henna-xi-17.vercel.app/api/top-langs/?username=Sudharsan25&hide=jupyter%20notebook&layout=compact" />
 </p>
 
 
