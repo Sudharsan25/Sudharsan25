@@ -1,10 +1,10 @@
 # Hi, I'm Sudharsan 👋
 
-**AI/ML Engineer with an M.S. in CSE from SUNY Buffalo.**
+**Full Stack Developer with an M.S. in CSE from SUNY Buffalo.**
 
-I specialize in building, and deploying **end-to-end AI applications**. My strength is bridging the gap between complex Python models and production-ready, full-stack applications (React/Next.js).
+I specialize in building, and deploying **end-to-end applications**. I also have experience in AI and ML, with projects in Predictive modelling, Computer Vision and NLP. My strength is bridging the gap between complex Python models and production-ready, full-stack applications (React/Next.js).
 
-🎯 **My Career Goal:** To secure a global engineering role where I can build, deploy, and scale real-world AI & MLOps systems.
+🎯 **My Career Goal:** To secure a global engineering role where I can build, deploy, and scale real-world Full stack AI & MLOps systems.
 
 ---
 
