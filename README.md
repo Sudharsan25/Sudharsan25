@@ -1,59 +1,57 @@
 # Hi, I'm Sudharsan 👋
 
-**Full Stack Developer with an M.S. in CSE from SUNY Buffalo.**
+**Full-Stack Developer**
 
-I specialize in building, and deploying **end-to-end applications**. I also have experience in AI and ML, with projects in Predictive modelling, Computer Vision and NLP. My strength is bridging the gap between complex Python models and production-ready, full-stack applications (React/Next.js).
+I design, build, and deploy **end-to-end software systems** — from clean, accessible user interfaces to scalable backend services and cloud infrastructure.
 
-🎯 **My Career Goal:** To secure a global engineering role where I can build, deploy, and scale real-world Full stack AI & MLOps systems.
+My work focuses on turning ambiguous requirements into **production-ready applications**, with an emphasis on system design, performance, and long-term maintainability. I am currently building full-stack products for **freelance clients** and my **own products** as well, owning everything from architecture and APIs to deployment and monitoring.
 
 ---
 
-### Currently working on:
+## What I’m Working On
 
-I'm dedicated to master the Generative AI and MLOps. With my experience in Full stack development, I intend to build scalable and efficient AI systems that provide real value to users. I am documenting my journey as I build and deploy a portfolio of production-grade AI systems.
+- Building **full-stack web applications** for real-world use cases (freelance + independent products)
+- Designing **scalable backend systems** with clean APIs, async workflows, and reliable data models
+- Optimizing systems for **performance, cost, and reliability** in cloud environments
+- Using **AI-assisted development tools** to move faster while maintaining architectural ownership and engineering judgment
 
-**My current learning & certification goals:**
-* **Cloud:** **AWS** (EC2, S3, IAM, Lambda, SageMaker, Bedrock), **Docker**, **CI/CD (GitHub Actions)**, **Linux**
-* **GenAI:** **LangChain**, **LlamaIndex**, Vector Databases (Pinecone, Chroma)
-* **MLOps:** , **MLflow**, **Apache Airflow**, **Data Version Control** (DVC),**DagsHub**
-* **Certification:** **AWS Machine learning engineer - Associate**
+I focus less about writing more code and more about **making the right engineering decisions**.
+
 ---
 
-### My Technology Stack
+I aim to build software that is:
+- understandable by other engineers  
+- resilient under real usage  
+- easy to evolve over time  
 
-<p align="left">
-  <strong>Languages:</strong><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+---
 
-<p align="left">
-  <strong>AI & Machine Learning:</strong><br>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-white?style=for-the-badge&logo=langchain&logoColor=black" />
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-</p>
+## Future Goals
 
-<p align="left">
-  <strong>Full-Stack & Backend:</strong><br>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
+Alongside full-stack development, I’m intentionally transitioning toward **AI engineering** by:
+- learning Generative AI and Agentic AI and build AI systems with real world use cases
+- familize myself with MLOPS and AWS Cloud for AI/ML to build production ready AI modules
 
-<p align="left">
-  <strong>Cloud, MLOps & Databases:</strong><br>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+The goal is not to “add AI”, but to **build complete systems where AI is a first-class component**.
+
+---
+
+## Tech Stack
+
+### Programming Languages
+<p align="left"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> </p>
+
+### Frontend
+<p align="left"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> </p>
+
+### Backend & APIs
+<p align="left"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=swagger&logoColor=white" /> </p>
+
+### Databases & Messaging
+<p align="left"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Drizzle_ORM-000000?style=for-the-badge&logo=drizzle&logoColor=white" /> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" /> <img src="https://img.shields.io/badge/Redis_(Cache)-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> </p>
+
+### Infrastructure & DevOps
+<p align="left"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black" /> <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" /> <img src="https://img.shields.io/badge/AWS_RDS_(Aurora)-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" /> </p>
 
 ---
 
@@ -73,16 +71,27 @@ I'm dedicated to master the Generative AI and MLOps. With my experience in Full 
   <img width="50%" src="https://github-readme-stats-henna-xi-17.vercel.app/api/top-langs/?username=Sudharsan25&hide=jupyter%20notebook&layout=compact" />
 </p>
 
-
-
+---
 
 ### 📫 Let's Connect
 
-I'm actively looking to connect with fellow engineers, mentors, and recruiters in the AI/ML and MLOps space.
+I’m always open to conversations around:
+- full-stack engineering
+- backend & system design
+- building production-grade software
+- practical AI integration
 
-* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/sudharsans25/) 
-* **Email:** sudharsanskumar0125@gmail.com
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/sudharsans25/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/sudharsandevv" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:sudharsanskumar0125@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ## 📂 Repositories
 Check out my pinned projects below ⬇️
