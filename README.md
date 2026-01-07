@@ -63,9 +63,6 @@ The goal is not to “add AI”, but to **build complete systems where AI is a f
     </td>
   </tr>
 </table>
-<p align="center">
-  <img width="50%" src="https://github-readme-stats-henna-xi-17.vercel.app/api/top-langs/?username=Sudharsan25&hide=jupyter%20notebook&layout=compact" />
-</p>
 
 ---
 
