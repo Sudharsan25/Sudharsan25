@@ -4,33 +4,12 @@
 
 **B.E. in Computer Science** · **M.S. in Computer Science**
 
-## What I’m Working On
 
 - Building **full-stack web applications** for real-world use cases (**freelance clients** and my **own products**)
 - Designing **scalable multi-tenant backend systems** with clean APIs, async workflows, and reliable data models
 - Optimizing systems for **performance, cost, and reliability** in cloud environments
 - Using **AI-assisted development tools** to move faster while maintaining architectural ownership and engineering judgment
 
-I focus less about writing more code and more about **making the right engineering decisions**.
-
----
-
-I aim to build software that is:
-- understandable by other engineers  
-- resilient under real usage  
-- easy to evolve over time  
-
----
-
-## Future Goals
-
-Alongside full-stack development, I’m expanding my work towards **AI engineering** by::
-- learning Generative AI and Agentic AI and build AI systems with real world use cases
-- familize myself with MLOPS and AWS Cloud for AI/ML to build production ready AI modules
-
-The goal is not to “add AI”, but to **build complete systems where AI is a first-class component**.
-
----
 
 ## Tech Stack
 
