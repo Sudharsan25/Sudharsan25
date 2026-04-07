@@ -28,6 +28,7 @@
 ### Infrastructure & DevOps
 <p align="left"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black" /> <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" /> <img src="https://img.shields.io/badge/AWS_RDS_(Aurora)-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" /> </p>
 
+<!---
 ---
 
 
@@ -44,6 +45,8 @@
 </table>
 
 ---
+--->
+
 
 ### 📫 Let's Connect
 
