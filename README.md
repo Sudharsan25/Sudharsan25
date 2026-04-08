@@ -4,12 +4,12 @@
 
 **B.E. in Computer Science** · **M.S. in Computer Science**
 
-
+<!--
 - Building **full-stack web applications** for real-world use cases (**freelance clients** and my **own products**)
 - Designing **scalable multi-tenant backend systems** with clean APIs, async workflows, and reliable data models
 - Optimizing systems for **performance, cost, and reliability** in cloud environments
 - Using **AI-assisted development tools** to move faster while maintaining architectural ownership and engineering judgment
-
+-->
 
 ## Tech Stack
 
